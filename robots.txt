@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/Juan-Jones/cash.github.io//sitemap.xml
+Sitemap: https://juan-jones/cash.github.io//sitemap.xml
